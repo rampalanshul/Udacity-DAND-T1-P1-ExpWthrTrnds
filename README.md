@@ -1,8 +1,6 @@
 # Explore Weather Trends
 
-**Course**: Udacity Data Analyst Nanodegree (DAND)
-**Term**: Term 1
-**Project No.**: Project 1
+### Udacity Data Analyst Nanodegree (DAND) - Term 1 - Project 1
 
 ### Summary
 
