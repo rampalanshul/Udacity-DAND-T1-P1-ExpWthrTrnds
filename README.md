@@ -1,6 +1,6 @@
 # Udacity Data Analyst Nanodegree - Term 1 - Project 1: Explore Weather Trends
 
-## Exploring Weather Trends - Project Instructions
+## Explore Weather Trends - Project Instructions
 
 ### Summary
 
